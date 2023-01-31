@@ -1,0 +1,1 @@
+/* HERE PURE JS */
