@@ -11,6 +11,6 @@
   <body <?php body_class(); ?>>
     <header>
       <nav>
-        <a href="/"><img class="logo_header" src="<?php echo( get_header_image() ); ?>" alt="<?php echo( get_bloginfo( 'title' ) ); ?>" height="60px" style="margin-bottom:-5;margin-top:0px;margin-right:5"/></a>
+        <a href="/"><img class="logo_header" src="<?php echo( get_header_image() ); ?>" alt="<?php echo( get_bloginfo( 'title' ) ); ?>"/></a>
       </nav>
     </header>

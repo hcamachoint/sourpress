@@ -1,5 +1,5 @@
 <footer class="footer">
-	<div align="center" style="margin-top:20px">
+	<div align="center">
 		<?php dynamic_sidebar( 'sidebar-1' ); ?>
 	</div>
 </footer>
